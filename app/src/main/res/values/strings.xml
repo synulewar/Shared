@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPrefApp</string>
+    <string name="Remember">Remember</string>
+    <string name="Username">User</string>
+    <string name="Password">Password</string>
+    <string name="checkbox">checkbox</string>
+</resources>
